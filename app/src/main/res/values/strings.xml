@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextINputLayout</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="hello"> Good Morning </string>
+    <string name="click_me">CLICK ME</string>
+</resources>
